@@ -112,6 +112,7 @@ The workbook contains the following sheets:
 * Go to the `vlookup_page` sheet.
 * Enter a Roll Number in the designated cell (e.g., `S001`).
 * The report card will auto-populate with the student's name, section, rank, percentage, subject-wise marks, grade, and teacher's remarks.
+<img width="1016" height="718" alt="Screenshot 2026-05-19 224649" src="https://github.com/user-attachments/assets/f2a9b75c-ee23-4c72-9805-842bcd2830d9" />
 
 ### 2. Explore the Dashboard
 * Open the `dashbord` sheet.
@@ -120,6 +121,9 @@ The workbook contains the following sheets:
   * Section-wise Subject Averages
   * Class Summary
   * Result Card Generator
+ 
+<img width="1237" height="755" alt="Screenshot 2026-05-19 223710" src="https://github.com/user-attachments/assets/3c487a5d-fe4c-42ad-b5cd-b612943ae160" />
+
 
 ### 3. Explore Pivot Summaries
 Navigate directly to individual summary sheets for deeper insights:
