@@ -162,6 +162,4 @@ Navigate directly to individual summary sheets for deeper insights:
 
 ---
 
-## 🏫 About
-* **School:** ABC School
-* **Class:** 10
+
